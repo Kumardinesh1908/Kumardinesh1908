@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://portfolio-kumardinesh1908.vercel.app/](https://portfolio-kumardinesh1908.vercel.app/)
 
-- ⚡ Fun fact **The computer was born to solve problems that did not exist before**
+- ⚡ Fun fact **The computer was born to solve problems that did not exist before.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
