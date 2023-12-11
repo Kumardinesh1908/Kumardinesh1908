@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at https://dineshportfolio-lyart.vercel.app/ 
-- - 
+- 👨‍💻 All of my projects are available at [https://dineshportfolio-lyart.vercel.app/](https://dineshportfolio-lyart.vercel.app/projects.html)
+   
 - 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **kumardinesh1908@gmail.com**
 
-- 📄 Know about my experiences [https://dineshportfolio-lyart.vercel.app/] (https://dineshportfolio-lyart.vercel.app/)
+- 📄 Know about my experiences [https://dineshportfolio-lyart.vercel.app/](https://dineshportfolio-lyart.vercel.app/experience.html)
 
 - ⚡ Fun fact **The computer was born to solve problems that did not exist before.**
 
