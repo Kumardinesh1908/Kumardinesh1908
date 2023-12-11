@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://dineshportfolio-lyart.vercel.app/] (https://dineshportfolio-lyart.vercel.app/)
+- 👨‍💻 All of my projects are available at https://dineshportfolio-lyart.vercel.app/ 
 - - 
 - 💬 Ask me about **React, JavaScript**
 
