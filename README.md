@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding gif" width=400 src="https://media1.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47z340nz4t1gfjld7v3csqp8cto8yjwcv0i0zmlr31&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://dineshportfolio-lyart.vercel.app/](https://dineshportfolio-lyart.vercel.app/projects.html)
    
